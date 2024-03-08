@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "670049043343",
+    "project_id": "fun-do-note-azm",
+    "storage_bucket": "fun-do-note-azm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670049043343:android:517128cdd245a2714d01fa",
+        "android_client_info": {
+          "package_name": "com.fundonote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBw-btXDi8DNjKiLV9FQBRGt6HWF1YOcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
